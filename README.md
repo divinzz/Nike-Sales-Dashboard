@@ -66,3 +66,5 @@ Bar charts, line graphs, maps, tables, interactive filters
 
 Tools & Skills:
 Tableau, Retail Analytics, Dashboard Design, Trend Analysis, Data Cleaning, Business Intelligence
+
+![Image](https://github.com/user-attachments/assets/8ff3cf92-ae88-482c-baad-fce9533dfef4)
